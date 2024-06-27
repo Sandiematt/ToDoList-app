@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "todolist",
+    "entryPoint": "./index.js",
+    "extra": {
+      "eas": {
+        "projectId": "1c5c67d3-10bc-4910-b4e2-7cfd64de3059"
+      }
+    },
+    "android": {
+      "package": "com.sandiematt.todolist"
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover"
+    }
+  }
+}
